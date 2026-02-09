@@ -54,22 +54,6 @@ Comfortable communicating in English.
 
 ---
 
-## GitHub Stats | GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jules&show_icons=true&theme=calm" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules&layout=compact&theme=calm" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jules&theme=flat&row=1&column=6" />
-</p>
-
----
-
 ## Featured Projects | 项目展示
 
 - [Project One](https://example.com) — Short project description here  
